@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">物聚</string>
+    <string name="title_activity_main">物聚</string>
+    <string name="drawer_open">打开抽屉</string>
+    <string name="drawer_close">关闭抽屉</string>
+    <string name="action_websearch">网络搜索</string>
+    <string name="app_not_available">对不起，手机无浏览器！</string>
+    <string name="txttakephoto">请点击图片进行拍照</string>
+    <string name="take">拍照</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <color name="red">#FF5809</color>
+	<color name="green">#00DB00</color>
+
+    <string-array name="thing_array">
+        <item>添加物品(拍照)</item>
+        <item>服装配饰</item>
+        <item>电子产品</item>
+        <item>交通工具</item>
+        <item>纪念物品</item>
+        <item>文具资料</item>
+        <item>生活用品</item>
+        <item>其余物品</item>
+    </string-array>
+    <string-array name="addthing_array">
+        <item>服装配饰</item>
+        <item>电子产品</item>
+        <item>交通工具</item>
+        <item>纪念物品</item>
+        <item>文具资料</item>
+        <item>生活用品</item>
+        <item>其余物品</item>
+    </string-array>
+
+</resources>
